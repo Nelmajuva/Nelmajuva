@@ -6,7 +6,8 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 **Trabajando en el sector privado, mientras estudio al mismo tiempo.**
 
 ## 💻 Lenguajes, Tecnologías y Herramientas
-<img align="left" alt="Laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" >
+<div>
+  <img align="left" alt="Laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" >
 <img align="left" alt="PHP" width="32px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" >
 <img align="left" alt="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" >
 <img align="left" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" >
@@ -25,6 +26,7 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="MySQL" width="36px" src="https://rcorrado.github.io/img/techs/Mysql.png">
 <img align="left" alt="SQL" width="36px" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
 <img align="left" alt="IntelliJ" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
+</div>
 
 <br />
 <br />
