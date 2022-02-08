@@ -3,7 +3,7 @@
 ¡Hola! Soy Camilo, ténico y actualmente estudiante de la tecnología de Análisis y Desarrollo de Sistemas de Información,<br/>
 teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, viviendo actualmente en Colombia.<br/><br/>
 
-**Actualmente trabajando en el sector privado.**
+**Trabajando en el sector privado, mientras estudio al mismo tiempo.**
 
 ## 💻 Lenguajes, Tecnologías y Herramientas
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" >
