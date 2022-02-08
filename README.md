@@ -22,8 +22,8 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="Git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" >
 <img align="left" alt="FireBase" width="24px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" >
 <img align="left" alt="MongoDB" width="32px" src="https://img.icons8.com/color/480/mongodb.png" >
-<img align="left" alt="MySQL" width="36px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png">
-<img align="left" alt="SQL" width="36px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png">
+<img align="left" alt="MySQL" width="36px" src="https://rcorrado.github.io/img/techs/Mysql.png">
+<img align="left" alt="SQL" width="36px" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
 
 <br />
 <br />
