@@ -12,7 +12,7 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" >
 <img align="left" alt="Node.JS" width="26px" src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" >
 <img align="left" alt="Sockets" width="26px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" >
-<img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" >
+<img align="left" alt="Angular" width="26px" src="https://www.pinclipart.com/picdir/middle/186-1869317_angular-6-logo-png-clipart.png" >
 <img align="left" alt="NGRX" width="26px" src="https://ngrx.io/assets/images/badge.svg" >
 <img align="left" alt="RXJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" >
 <br />
