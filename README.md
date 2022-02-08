@@ -23,11 +23,11 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <br />
 <br />
 
-<img align="left" alt="Git" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" >
-<img align="left" alt="FireBase" width="52px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" >
-<img align="left" alt="MongoDB" width="52px" src="https://img.icons8.com/color/480/mongodb.png" >
-<img align="left" alt="MySQL" width="52px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png">
-<img align="left" alt="SQL" width="52px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png">
+<img align="right" alt="Git" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" >
+<img align="right" alt="FireBase" width="52px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" >
+<img align="right" alt="MongoDB" width="52px" src="https://img.icons8.com/color/480/mongodb.png" >
+<img align="right" alt="MySQL" width="52px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png">
+<img align="right" alt="SQL" width="52px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png">
 
 <br />
 <br />
