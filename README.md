@@ -15,7 +15,7 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="Angular" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" >
 <img align="left" alt="NGRX" width="36px" src="https://ngrx.io/assets/images/badge.svg" >
 <img align="left" alt="RXJS" width="36px" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" >
-<img align="left" alt="Dart" width="24px" src="https://img.icons8.com/color/144/000000/dart.png">
+<img align="left" alt="Dart" width="36px" src="https://img.icons8.com/color/144/000000/dart.png">
 <img align="left" alt="Flutter" width="24px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" >
 <img align="left" alt="Java" width="24px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" >
 <img align="left" alt="Spring" width="24px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" >
