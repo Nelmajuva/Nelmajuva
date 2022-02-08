@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Juan Camilo López Morales&mdash;@Nelmajuva
 
 ¡Hola! Soy Camilo, ténico y actualmente estudiante de la tecnología de Análisis y Desarrollo de Sistemas de Información,<br/>
-teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, viviendo actualmente en Colombia.
+teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, viviendo actualmente en Colombia.<br/><br/>
 
-## Actualmente trabajando en el sector privado.
+** Actualmente trabajando en el sector privado. **
 
 ## 💻 Lenguajes y Herramientas
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
