@@ -19,7 +19,7 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
   <img align="left" alt="Dart" width="36px" src="https://img.icons8.com/color/144/000000/dart.png">
   <img align="left" alt="Flutter" width="24px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" >
   <img align="left" alt="Java" width="32px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" >
-  <img align="left" alt="Spring" width="32px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" >
+  <img align="left" alt="Spring" width="32px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" >
 </div>
 
 <br />
@@ -32,7 +32,6 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
   <img align="left" alt="MySQL" width="36px" src="https://rcorrado.github.io/img/techs/Mysql.png">
   <img align="left" alt="SQL" width="36px" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
   <img align="left" alt="IntelliJ" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
-  <img align="left" alt="Webstorm" width="36px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" >
 </div>
 
 <br />
