@@ -16,14 +16,14 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="NGRX" width="64px" src="https://ngrx.io/assets/images/badge.svg" >
 <img align="left" alt="RXJS" width="64px" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" >
 <img align="left" alt="Dart" width="64px" src="https://img.icons8.com/color/144/000000/dart.png">
-<img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" >
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" >
-<img align="left" alt="Spring" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" >
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" >
-<img align="left" alt="FireBase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" >
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/480/mongodb.png" >
-<img align="left" alt="MySQL" width="48px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png">
-<img align="left" alt="SQL" width="48px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png">
+<img align="left" alt="Flutter" width="52px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" >
+<img align="left" alt="Java" width="52px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" >
+<img align="left" alt="Spring" width="52px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" >
+<img align="left" alt="Git" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" >
+<img align="left" alt="FireBase" width="52px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" >
+<img align="left" alt="MongoDB" width="52px" src="https://img.icons8.com/color/480/mongodb.png" >
+<img align="left" alt="MySQL" width="52px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png">
+<img align="left" alt="SQL" width="52px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png">
 
 <br />
 <br />
