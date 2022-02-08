@@ -15,6 +15,8 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" >
 <img align="left" alt="NGRX" width="26px" src="https://ngrx.io/assets/images/badge.svg" >
 <img align="left" alt="RXJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" >
+<img align="left" alt="Dart" width="26px" src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png" >
+<img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" >
 <br />
 <br />
 
