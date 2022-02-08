@@ -6,8 +6,8 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 **Actualmente trabajando en el sector privado.**
 
 ## 💻 Lenguajes y Herramientas
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
-<img align="left" alt="Java" width="26px" src="https://i.imgur.com/cE3CFGf.png" >
+<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" >
+<img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" >
 <img align="left" alt="PHP" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" >
 <img align="left" alt="Node.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" >
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" >
