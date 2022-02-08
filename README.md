@@ -6,13 +6,13 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 **Trabajando en el sector privado, mientras estudio al mismo tiempo.**
 
 ## 💻 Lenguajes, Tecnologías y Herramientas
-<img align="left" alt="Laravel" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" >
-<img align="left" alt="PHP" width="24px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" >
-<img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" >
-<img align="left" alt="TypeScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" >
-<img align="left" alt="Node.JS" width="24px" src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" >
-<img align="left" alt="Sockets" width="24px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" >
-<img align="left" alt="Angular" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" >
+<img align="left" alt="Laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" >
+<img align="left" alt="PHP" width="32px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" >
+<img align="left" alt="JavaScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" >
+<img align="left" alt="TypeScript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" >
+<img align="left" alt="Node.JS" width="32px" src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" >
+<img align="left" alt="Sockets" width="32px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" >
+<img align="left" alt="Angular" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" >
 <img align="left" alt="NGRX" width="24px" src="https://ngrx.io/assets/images/badge.svg" >
 <img align="left" alt="RXJS" width="24px" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" >
 <img align="left" alt="Dart" width="24px" src="https://img.icons8.com/color/144/000000/dart.png">
