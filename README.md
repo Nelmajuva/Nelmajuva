@@ -10,7 +10,7 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="PHP" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" >
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" >
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" >
-<img align="left" alt="Node.JS" width="26px" src="https://img.icons8.com/color/480/nodejs.png" >
+<img align="left" alt="Node.JS" width="26px" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" >
 <img align="left" alt="Sockets" width="26px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" >
 <img align="left" alt="Sockets" width="26px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" >
 <br />
