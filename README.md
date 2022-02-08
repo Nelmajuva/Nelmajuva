@@ -32,13 +32,14 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
   <img align="left" alt="MySQL" width="36px" src="https://rcorrado.github.io/img/techs/Mysql.png">
   <img align="left" alt="SQL" width="36px" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
   <img align="left" alt="IntelliJ" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
+  <img align="left" alt="Webstorm" width="36px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" >
 </div>
 
 <br />
 <br />
 
 ## 📨 Contactáctame
-Puedes enviarme un correo electrónico a <a href="mailto:camilopezm24734m@gmail.com">camilopezm24734m@gmail.com</a>.
+Puedes enviarme un correo electrónico dando <a href="mailto:camilopezm24734m@gmail.com">clic aquí</a>.
 <br />
 <br />
 <br />
