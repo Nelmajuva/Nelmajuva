@@ -19,6 +19,7 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 <img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" >
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" >
 <img align="left" alt="Spring" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" >
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" >
 <br />
 <br />
 
