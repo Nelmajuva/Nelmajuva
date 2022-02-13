@@ -39,10 +39,3 @@ teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, v
 
 ## 📨 Contactáctame
 Puedes enviarme un correo electrónico dando <a href="mailto:camilopezm24734m@gmail.com">clic aquí</a>.
-<br />
-<br />
-<br />
-<br />
-
-> ✨☁️ Imagination is more important than knowledge...  
-> *&mdash; Albert Einstein*
