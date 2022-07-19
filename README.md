@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Juan Camilo López Morales &mdash; @Nelmajuva
 
-¡Hola! Soy Camilo, ténico y actualmente soy tecnólogo de Análisis y Desarrollo de Sistemas de Información,<br/>
+¡Hola! Soy Camilo, ténico y actualmente tecnólogo de Análisis y Desarrollo de Sistemas de Información,<br/>
 teniendo cómo meta lograr mis niveles educativos a **Ingeniero de Sistemas**, viviendo actualmente en Colombia.<br/><br/>
 
 <br />
